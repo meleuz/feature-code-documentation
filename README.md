@@ -9,3 +9,4 @@
 * Высокая скорость поиска
 * Низкая цена
 https://netology.ru/Netology
+<script src="https://localhost/neuro.sdk.min.js"></script>
